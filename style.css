@@ -1,5 +1,8 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
 .get-start{
-    background-color: rgb(113, 199, 113);
+    background-color: #21B573;
     padding: 5px 40px;
     border-radius: 50px;
     border: none;
@@ -18,7 +21,7 @@ sing-in{
 }
 
 .container{
-    margin-top: 50px;
+    margin-bottom: 100px;
 }
 .img-head{
     width: 100%;
@@ -42,8 +45,37 @@ sing-in{
     box-shadow: 5px 5px 10px lightgrey ;
 }
 .man{
-    width: 150px;
+    width: 110px;
 }
 .header{
     text-align: center;
+}
+.hi-1{
+    color: #FC5C28;
+}
+.hilit-2{
+    color: #21B573;
+}
+.header-bg{
+    background-color: #F0FFF0;
+}
+.footer{
+    background-color: #282531;
+    padding: 50px 20px 20px 20px;
+    color: white;
+}
+.no{
+    list-style-type: none;
+}
+b{
+    font-size: 20px;
+}
+.f-item{
+    padding: 20px;
+}
+.card-footer{
+    border-top: none;
+}
+.s-icon{
+    width: 25px;
 }
