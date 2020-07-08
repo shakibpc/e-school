@@ -34,7 +34,7 @@ sing-in{
     height:100 px;
 
 }
-.item{
+.item-1, .item-2, .item-3, .item-4 {
     padding: 20px 20px;
     background-color: rgb(244, 249, 250);
     border-radius: 10px;
@@ -78,4 +78,9 @@ b{
 }
 .s-icon{
     width: 25px;
+}
+
+.col-md-3 :hover{
+    background-color: white;
+    box-shadow: 5px 5px 20px gray;
 }
